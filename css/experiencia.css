@@ -39,10 +39,16 @@
     display: block;
     width: 4px;
     height: 20px;
-    background: linear-gradient(180deg, #6741D2 0%, #9B84DD 100%);
+    background: #6741D2;
     position: absolute;
     top: 20px;
     left: -4px;
+}
+
+.empresa:hover {
+    border-left: 4px solid #6741D2;
+    transition: 0.2s;
+    cursor: pointer;
 }
 
 .empresa-ano {
