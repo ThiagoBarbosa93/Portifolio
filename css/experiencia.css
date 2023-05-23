@@ -88,6 +88,12 @@
     padding: 5px 10px;
 }
 
+.curriculo {
+    text-decoration: none;
+    color: #000;
+    font-size: 14px;
+}
+
 @media (max-width: 800px) {
     .experiencia{
         grid-template-columns: 1fr;
