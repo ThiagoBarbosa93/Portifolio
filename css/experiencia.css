@@ -17,6 +17,7 @@
     max-width: 40ch;
     margin-bottom: 60px;
     color: #525252;
+    border-bottom: 10px red;
 }
 
 .experiencia-texto strong {
