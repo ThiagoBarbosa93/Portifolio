@@ -14,7 +14,8 @@
 
 .footer-texto {
     grid-template-columns: 1 /-1;
-    font-size: 1.5rem;
+    font-family: 'Poppins';
+    font-size: 1.35rem;
     line-height: 1.33;
     color: #cccccc;
 }
