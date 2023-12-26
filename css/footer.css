@@ -52,6 +52,8 @@
     transition: 0.3s;
 }
 
+
+
 @media (max-width: 900px) {
     .footer-container {
         grid-template-columns: 1fr;
